@@ -28,6 +28,6 @@ Please note that the code in this repository is provided as-is and may not be pr
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, you can reach me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or just want to connect, you can reach me at [your-email@example.com](mailto:ameerkhan.ee20@bitsathy.ac.in).
 
 Thank you for visiting my code repository, and I hope you find the code here useful and informative!
